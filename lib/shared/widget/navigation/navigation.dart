@@ -324,7 +324,7 @@ class _ExNavigationState extends State<ExNavigation> {
     }
 
     return BottomNavigationBar(
-      backgroundColor: primaryColor,
+      backgroundColor: Colors.white,
       selectedItemColor: widget.selectedColor ?? primaryColor,
       unselectedItemColor: widget.unselectedColor ?? disabledColor,
       currentIndex: selectedIndex,

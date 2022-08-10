@@ -1,9 +1,16 @@
 {
     "modules": [
-        "dev_main_navigation",
-        "dev_dashboard",
-        "dev_ui_kit",
-        "dev_pages",
-        "dev_about"
+        "login",
+        "register",
+        "main_navigation",
+        "dashboard",
+        "favorite",
+        "profile",
+        "edit_profile",
+        "product",
+        "product_form",
+        "order",
+        "pos",
+        "pos_checkout"
     ]
 }
